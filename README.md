@@ -33,6 +33,8 @@ Robust Error Handlingfor invalid inputs and API failures.
 | File Export         | OpenPyXL (Excel `.xlsx`)         |
 | CLI Interaction     | Python `input()` function        |
 
+![image](https://github.com/user-attachments/assets/cd70a708-ada5-4612-a1e1-bcd57c0e6de8)
+
 ---
 
 How It Works
